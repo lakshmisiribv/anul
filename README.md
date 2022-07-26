@@ -1,0 +1,2 @@
+# anul
+linux
